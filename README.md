@@ -2,7 +2,7 @@
 About me... (I will write something here eventually)
 
 ## My Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogzhey&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogzhey&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Mogzhey/Mogzhey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
