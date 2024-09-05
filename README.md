@@ -1,6 +1,7 @@
 ## Hi there, I'm Morgan 👋
-About me...
+About me... (I will write something here eventually)
 
+## My Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogzhey)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
